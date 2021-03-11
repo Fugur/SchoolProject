@@ -1,0 +1,303 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&display=swap');
+/* settings */
+body{
+	margin: 0;
+}
+.wrapper{
+	margin: 0 auto;
+}
+/* Header */
+header{
+	max-width: 1790px;
+	height: 400px;
+	padding: 5px;
+	filter: brightness(40%);
+	background-color:rgba(0, 0, 0, 0.68);
+	background-image: url(img/kontaktyi.jpg);
+	background-size: cover;
+}
+#name1{
+	display: block;
+	position: absolute;
+	width: 348px;
+	height: 94px;
+	left: 42.44px;
+	top: 10px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color:white;
+}
+#name2{
+	position: absolute;
+	width: 214px;
+	height: 94px;
+	left: 127.33px;
+	top: 80px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: white;
+}
+#contact{
+	position: absolute;
+	width: 234px;
+	height: 63px;
+	left: 1089.54px;
+	top: 10px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	line-height: 62px;
+	color: #FFFFFF;
+}
+#contact1{
+	position: absolute;
+	width: 304px;
+	height: 38px;
+	left: 1089.54px;
+	top: 87px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 37px;
+	color: white;
+}
+#contact2{
+	position: absolute;
+	width: 304px;
+	height: 38px;
+	left: 1089.54px;
+	top: 151px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 37px;
+	color: white;
+}
+#contact3{
+	position: absolute;
+	width: 304px;
+	height: 38px;
+	left: 1089.54px;
+	top: 215px;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 37px;
+	color: white;
+}
+/* main */
+main{
+	margin: 0;
+}
+.block__about{
+	width: 1800px;
+}
+#about{
+	padding: 10px;
+	background-image: url(img/alpy-gory-franciya-zamok.jpg);
+	background-size: cover;
+	max-width: 1800px;
+	height: 900px;
+	filter: brightness(40%);
+}
+#aboutUs{
+	position: absolute;
+	width: 100%;
+	height: 100px;
+	top: 445px;
+	margin: 0 au;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	line-height: 100px;
+	color: white;
+	text-align: center;
+}
+.wrapper__block_center{
+	position: absolute;
+	width: 100%;
+	height: 481px;
+	top: 657px;
+	text-align: center;
+}
+#aboutUs_text{
+	margin: 0 auto;
+	max-width: 1200px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+	line-height: 37px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.block__turs{
+	width: 1800px;
+	position: relative;
+	top: -20px;
+}
+#turs{
+	padding: 10px;
+	position: absolute;
+	width: 1780px;
+	height: 1100px;
+	filter: brightness(40%);
+	background-image: url(img/8c647b570167e1b6252cc75cfdb2b831_781.jpg);
+	background-size: cover;
+}
+.wrapper__block_turs{
+	position: absolute;
+	width: 965px;
+	height: 108px;
+	left: 55px;
+	top: 1596px;
+}
+.block__turs h2{
+	position: absolute;
+	width: 193.7px;
+	height: 100px;
+	left: 54.92px;
+	top: 10px;	
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 70px;
+	line-height: 87px;
+	color: #FFFFFF;
+}
+.wrapper__block_turs{
+	position: absolute;
+	width: 965px;
+	height: 108px;
+	left: 55px;
+	top: 146px;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 37px;
+	color: #FFFFFF;
+}
+.turs_1{
+	position: absolute;
+	width: 361px;
+	height: 598px;
+	left: 138px;
+	top: 340px;
+	padding: 15px;
+	background-image: url(img/alpy-gory-franciya-zamok.jpg);
+
+}
+.turs_1 h2{
+	position: absolute;
+	width: 200px;
+	height: 36px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	line-height: 50px;
+	color: #FFFFFF;
+}
+.turs_1 p{
+	position: absolute;
+	width: 340px;
+	height: 149px;
+	left: 30px;
+	top: 250px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 25px;
+	color: #FFFFFF;
+}
+.turs_2{
+	position: absolute;
+	width: 361px;
+	height: 630px;
+	left: 719px;
+	top: 340px;
+	background-image: url(img/IMG_2494-1350x900.jpg);
+	background-size: cover;
+}
+.turs_2 h2{
+	position: absolute;
+	width: 200px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	line-height: 50px;
+	color: #FFFFFF;
+}
+.turs_2 p{
+	position: absolute;
+	width: 340px;
+	height: 149px;
+	left: 30px;
+	top: 250px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 25px;
+	color: #ffffff;
+}
+.turs_3{
+	position: absolute;
+	width: 361px;
+	height: 598px;
+	right: 138px;
+	top: 340px;
+	padding: 15px;
+	background-image: url(img/PAR_473_original.jpg);
+}
+.turs_3 h2{
+	position: absolute;
+	width: 200px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	line-height: 50px;
+	color: #000000;
+}
+.turs_3 p{
+	position: absolute;
+	width: 340px;
+	height: 149px;
+	left: 30px;
+	top: 250px;
+	font-family: 'Quicksand', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 25px;
+}
+/* footer */
+footer{
+	position: absolute;
+	width: 1800px;
+	height: 97px;
+	left: 0px;
+	top: 2397px;
+	background-color: #000928;
+
+	text-align: center;
+	color: white;
+}
+footer h2{
+	font-family: Roboto;
+	font-size: 20px;
+	line-height: 23px;
+}
