@@ -195,7 +195,8 @@ main{
 	top: 340px;
 	padding: 15px;
 	background-image: url(img/alpy-gory-franciya-zamok.jpg);
-
+	transition: 0.5s ease-out 0.1s;
+	outline: none;
 }
 .turs_1 h2{
 	position: absolute;
@@ -229,6 +230,8 @@ main{
 	top: 340px;
 	background-image: url(img/IMG_2494-1350x900.jpg);
 	background-size: cover;
+	transition: 0.5s ease-out 0.1s;
+	outline: none;
 }
 .turs_2 h2{
 	position: absolute;
@@ -261,6 +264,8 @@ main{
 	top: 340px;
 	padding: 15px;
 	background-image: url(img/PAR_473_original.jpg);
+	transition: 0.5s ease-out 0.1s;
+	outline: none;
 }
 .turs_3 h2{
 	position: absolute;
@@ -283,6 +288,15 @@ main{
 	font-weight: normal;
 	font-size: 25px;
 	line-height: 25px;
+}
+.turs_1:hover{
+	transform: scale(1.1);
+}
+.turs_2:hover{
+	transform: scale(1.1);
+}
+.turs_3:hover{
+	transform: scale(1.1);
 }
 /* footer */
 footer{
