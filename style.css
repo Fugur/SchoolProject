@@ -9,7 +9,7 @@ body{
 }
 /* Header */
 header{
-	max-width: 1790px;
+	max-width: 1800px;
 	height: 400px;
 	padding: 5px;
 	filter: brightness(40%);
@@ -46,7 +46,7 @@ header{
 	position: absolute;
 	width: 234px;
 	height: 63px;
-	left: 1089.54px;
+	right: 222px;
 	top: 10px;
 	font-family: 'Quicksand', sans-serif;
 	font-style: normal;
@@ -59,7 +59,7 @@ header{
 	position: absolute;
 	width: 304px;
 	height: 38px;
-	left: 1089.54px;
+	right: 150px;
 	top: 87px;
 	font-family: 'Quicksand', sans-serif;
 	font-style: normal;
@@ -72,7 +72,7 @@ header{
 	position: absolute;
 	width: 304px;
 	height: 38px;
-	left: 1089.54px;
+	right: 150px;
 	top: 151px;
 	font-family: 'Quicksand', sans-serif;
 	font-style: normal;
@@ -85,7 +85,7 @@ header{
 	position: absolute;
 	width: 304px;
 	height: 38px;
-	left: 1089.54px;
+	right: 150px;
 	top: 215px;
 	font-family: Quicksand;
 	font-style: normal;
